@@ -1,0 +1,17 @@
+{
+  "git_revision": "da876273ecdb43dbc7db082cfa70c7febdb5bfe3",
+  "artifacts": {
+    "installer": {
+      "filename": "ncJugiMapParallaxScrolling-2026.05.r1-da87627-Win64-VS2022.exe",
+      "size": 6071962,
+      "timestamp": "2026-05-13T00:39:30Z",
+      "sha256": "a58550620e31c087b52e75f89c5a77759cf034a955f3ca935b4123dc8bbfe3a4"
+    },
+    "portable": {
+      "filename": "ncJugiMapParallaxScrolling-2026.05.r1-da87627-Win64-VS2022.zip",
+      "size": 6707201,
+      "timestamp": "2026-05-13T00:39:30Z",
+      "sha256": "193b3fa7128f3cc076d539b1a581d273189d263d49cd8d17d791f4a4eed480bc"
+    }
+  }
+}
